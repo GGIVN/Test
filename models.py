@@ -1,6 +1,7 @@
 from pygame import *
 FPS = 60
 
+#coment
 WINDOW_SIZE = (1000, 700)
 SPRITE_SIZE = (10, 100)
 BALL_SIZE = (50,50)
